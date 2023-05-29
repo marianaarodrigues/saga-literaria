@@ -1,0 +1,38 @@
+h1 {
+	color: #0071a3;
+}
+
+.titulosecao {
+	color: #00aee8;
+}
+
+body {
+	background-color: #efd3ed;
+}
+
+body {
+  font-family: 'URW Chancery L', cursive;
+}
+
+#navegacao ul li {
+    display: inline-block;
+    padding-right: 4px;
+    text-decoration: none;
+}
+
+#navegacao ul li a {
+    text-decoration: none;
+}
+
+footer {
+    background-color: #f6a6eb;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
