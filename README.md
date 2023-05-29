@@ -1,2 +1,2 @@
 # saga-literaria
-Projeto desenvolvido no início do curso de Programador Web do Senac GO
+Projeto simples sobre a série literária O Cemitério dos Livros Esquecidos, do escritor espanhol Carlos Ruiz Zafón.
